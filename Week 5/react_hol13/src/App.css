@@ -1,0 +1,17 @@
+.App{
+    text-align:center;
+    font-family:Arial;
+}
+
+ul{
+    list-style:none;
+}
+
+li{
+    margin:10px;
+    font-size:18px;
+}
+
+hr{
+    width:60%;
+}

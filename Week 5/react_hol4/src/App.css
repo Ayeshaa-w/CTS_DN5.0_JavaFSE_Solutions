@@ -1,0 +1,32 @@
+body{
+  margin:0;
+  background:#f4f4f4;
+  font-family:Arial;
+}
+
+.container{
+  width:80%;
+  margin:auto;
+  padding:20px;
+}
+
+h1{
+  text-align:center;
+  color:#1f4e79;
+}
+
+.card{
+  background:white;
+  margin:15px 0;
+  padding:15px;
+  border-radius:8px;
+  box-shadow:0 0 8px rgba(0,0,0,0.15);
+}
+
+.card h3{
+  color:#0066cc;
+}
+
+.card p{
+  color:#444;
+}
